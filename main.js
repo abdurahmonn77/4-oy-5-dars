@@ -260,7 +260,7 @@
 //     usersName.push(newName)
 // }
 
-// let findName = prompt("Ism qidiring?")
+// let findName = prompt("Ism qidiring:")
 // let count = 0
 // for(let i = 0; i < usersName.length;i++){
 //     if(usersName[i] == findName){
@@ -303,9 +303,6 @@
 //     console.log("" + a + b + c);
 // }
 // cangeNumber(number)
-
-// Recursion - function ozini ichida ozini chaqiradi 
-
 // function countDown(number) {
 //     console.log(number);
 //     const newNumber = number - 1;
@@ -320,8 +317,6 @@
 // let obj1 = {id:1}
 // let obj2 = {name:"salom"}
 // let obj3 = {age:15}
-
-// let resObj = Object.assign(obj1, obj2, obj3)
 // let resObj = {...obj1, ...obj2, ...obj3}
 // console.log(resObj);
 
@@ -332,7 +327,6 @@
 //     b:3600,
 //     c:1800
 // }
-// 1-usul
 // function fn(obj){
 //     let sum = 0
 //     for(let user in obj){
